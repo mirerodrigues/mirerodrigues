@@ -1,7 +1,12 @@
-# Titulo
+# Olá, meu nome é Mirella!
 
-## Titulo 2
+***
+Ciência de Dados - Universidade Federal do Mato Grosso do Sul
 
-**Negrito**
+Aprendendo sobre Dados, IA e ML
 
-Texto normal
+***
+
+## Meus Projetos
+
+- [Projeto Analise de Dados](https://github.com/mirerodrigues/projeto-analise-dados)
